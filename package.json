@@ -1,0 +1,19 @@
+{
+  "name": "remind-me-app",
+  "version": "1.0.0",
+  "description": "A simple Electron app for task reminders.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "reminder",
+    "app"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.0.0"
+  }
+}

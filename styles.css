@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#tasksList div {
+    margin-top: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.deleteBtn {
+    margin-left: 10px;
+    background-color: #f44336;
+}
+
+.deleteBtn:hover {
+    background-color: #d32f2f;
+}
